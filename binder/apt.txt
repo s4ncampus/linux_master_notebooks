@@ -1,0 +1,10 @@
+clamav
+clamav-freshclam
+clamdscan
+stress
+procps
+net-tools
+lsof
+dmidecode
+sudo
+libcrack2
